@@ -183,13 +183,6 @@ pip install -r requirements-dev.txt
 5. Submit a pull request
 
 
-## 🏆 Publications
-
-This work is intended for submission to:
-- NSDI, OSDI, SOCC
-- NDSS, CCS, ATC
-- SIGCOMM, SOSP, EuroSys
-
 ## 👥 Team
 
 - **Dr. Haiying Shen** - Principal Investigator, University of Virginia

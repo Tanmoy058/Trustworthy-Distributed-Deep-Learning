@@ -85,16 +85,12 @@ trainer.train(
 ## 📊 Supported Models
 
 ### Language Models
-- GPT-2, GPT-3
-- BERT, T5
-- Llama, Transformer-XL
-- Megatron, Turing-NLG, XLNet
+- GPT-2
 
 ### Computer Vision Models
 - VGG (11, 13, 16)
 - ResNet (32, 50, 101)
-- AlexNet, GoogleNet
-- MobileNet, DenseNet
+
 
 
 ## 🔬 Experiments
@@ -108,8 +104,6 @@ python experiments/image_classification/run_cifar10_experiment.py
 # Language modeling with model poisoning
 python experiments/language_modeling/run_gpt2_experiment.py
 
-# Custom attack scenarios
-python experiments/attack_scenarios/run_custom_attack.py
 ```
 
 ### Configuration
